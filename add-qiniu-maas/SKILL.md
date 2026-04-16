@@ -1,5 +1,5 @@
 ---
-name: add-qiniu-provider
+name: add-qiniu-maas
 description: 分析任意项目中已有的模型厂商（provider / client / adapter）实现方式，并按照完全一致的模式为七牛云网关新增接入（代码标识统一为 qiniu）。当用户提到「七牛」「Qiniu」「接入七牛云」「新增 provider」「add qiniu provider」「接入厂商」时自动触发。
 ---
 
